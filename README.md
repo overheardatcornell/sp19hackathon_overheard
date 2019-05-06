@@ -15,5 +15,6 @@ Overheard At Cornell App
 		- We integrated our app with the API backend developers created, which keeps a database of all the posts users upload.
 	
 7.	Anything else you want your grader to know
+	- iOS xcodeproj file and xcworkspace file are located inside the "jk2332_p5" foler.
 
-Note: The link, screenshots, and description will be used for the Hack Challenge website where we will showcase everyone’s final projects 
+Note: The link, screenshots, and description will be used for the Hack Challenge website where we will showcase everyone’s final projects
