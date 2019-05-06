@@ -23,7 +23,7 @@ Overheard At Cornell App
 		-Used SQLAlchemy to develop the many to many relationships between liking posts and comments,
 		and parent child relationships between users and posts, and posts and comments. 
 		-Provided as many paths as possible to faciliate data gathering for the IOS team. 
-		-Deployed to the Google Cloud with a Docker image. 
+		-Deployed to the Google Cloud with a Docker image.  
 	
 7.	Anything else you want your grader to know
 	- iOS xcodeproj file and xcworkspace file are located inside the "jk2332_p5" foler.
