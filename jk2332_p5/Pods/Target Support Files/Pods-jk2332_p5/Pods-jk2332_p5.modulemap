@@ -1,0 +1,6 @@
+framework module Pods_jk2332_p5 {
+  umbrella header "Pods-jk2332_p5-umbrella.h"
+
+  export *
+  module * { export * }
+}
