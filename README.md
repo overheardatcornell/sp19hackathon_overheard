@@ -18,6 +18,12 @@ Overheard At Cornell App
 		- Our main page uses two collection views for filters and scrolling posts. Our profile page also has two collection views for viewing posts. 
 		- We use NavigationController to navigate through different screens.
 		- We integrated our app with the API backend developers created, which keeps a database of all the posts users upload.
+	-Requirements for Backend
+		-Designed an API to include relationships between users, posts, and comments. 
+		-Used SQLAlchemy to develop the many to many relationships between liking posts and comments,
+		and parent child relationships between users and posts, and posts and comments. 
+		-Provided as many paths as possible to faciliate data gathering for the IOS team. 
+		-Deployed to the Google Cloud with a Docker image. 
 	
 7.	Anything else you want your grader to know
 	- iOS xcodeproj file and xcworkspace file are located inside the "jk2332_p5" foler.
