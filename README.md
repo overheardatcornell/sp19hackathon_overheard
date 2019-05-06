@@ -10,7 +10,9 @@ Overheard At Cornell App
 ![main page](main.png)
 ![post_page](post.png)
 ![profile_page](profile.png)
+
 5.	Our app’s purpose is to create a forum for any user to make her or his voice heard by uploading an anonymous post. We have a feature of tags, which can be used as categories to filter posts and can be added when creating a new post. Furthermore, profile page allows the users to take a look at their liked posts or ones that they themselves have posted. When clicking on a post in a main page, users can view the details of a post, including its title, content, number of likes and etc.
+
 6.	A list of how your app addresses each of the requirements (iOS / Backend)
 	- Requirements for iOS
 		- Our main page uses two collection views for filters and scrolling posts. Our profile page also has two collection views for viewing posts. 
